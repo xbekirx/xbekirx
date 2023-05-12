@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --># 💫 About Me:
-Python,C+ Biliyorum<br>Java Üzerinde Çalışıyorum<br>Atisalani anadolu lisesine gidiyorum<br>
+Python,C# Biliyor<br>Java Üzerinde Çalışıyor<br>İstanbulda Okuyor<br>
 
 
 ## 🌐 Socials:
